@@ -1,0 +1,2 @@
+Prefix plugins/Variational/example/
+Plugin Variational inputfile MNIST_data outputfile none
